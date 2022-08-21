@@ -18,7 +18,8 @@ I'm currently studying Software Development at Trybe
     <img alt="Vercel" src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" />
     <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />
     <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-    <!-- <img alt="Python" src="https://img.shields.io/badge/-Python-333E72?style=for-the-badge&logo=python&logoColor=yellow" /> -->
+    <img alt="Python" src="https://img.shields.io/badge/-Python-333E72?style=for-the-badge&logo=python&logoColor=yellow" />
+    <img alt="Golang" src="https://img.shields.io/badge/golang-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" />
 <div/>
   
 ### 📫 How to reach me
