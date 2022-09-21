@@ -7,6 +7,7 @@ I'm currently studying Software Development at Trybe
   - Back-end Development
   - Computer Cience
 
+[![Profile](https://komarev.com/ghpvc/?username=marcioecom&message=Visits&color=33B98A)](https://github.com/marcioecom)
 <h3>Things I code with</h3>
 <div>
     <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=for-the-badge&logo=Node.js&logoColor=white" />
