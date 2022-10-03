@@ -25,7 +25,6 @@ I'm currently studying Software Development at Trybe
   
 ### 📫 How to reach me
   [![LinkedIn](https://img.shields.io/badge/-LinkedIn-white?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/marciojunior14/)
-  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/marciojunior14/)
 
  <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=marcioecom&count_private=true&show_icons=true&theme=gotham" />
