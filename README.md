@@ -21,6 +21,7 @@ I'm currently studying Software Development at Trybe
     <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
     <img alt="Python" src="https://img.shields.io/badge/-Python-333E72?style=for-the-badge&logo=python&logoColor=yellow" />
     <img alt="Golang" src="https://img.shields.io/badge/golang-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" />
+    <img alt="Elixir" src="https://img.shields.io/badge/elixir-4F2C60.svg?style=for-the-badge&logo=elixir&logoColor=white" />
 <div/>
   
 ### 📫 How to reach me
