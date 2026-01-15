@@ -1,6 +1,8 @@
 ## Hey, I'm Márcio Júnior
 Fullstack Developer based in Brazil
 
+[marcio.run](https://www.marcio.run)
+
 [![Profile](https://komarev.com/ghpvc/?username=marcioecom&message=Visits&color=33B98A)](https://github.com/marcioecom)
 <h3>Things I code with</h3>
 <div>
