@@ -3,7 +3,7 @@
 
 Professional Software Engineer with deep expertise in **Golang**, **Node.js**, and **Distributed Systems**. Currently focused on bridging the gap between traditional Fintech and Web3 infrastructure. Based in Brazil, working for the world.
 
-[🌐 marcio.run](https://marcio.run) | [🔗 LinkedIn](https://www.linkedin.com/in/marciojunior14/) | [✉️ Email](mailto:seu-email@marcio.run)
+[🌐 marcio.run](https://marcio.run) | [🔗 LinkedIn](https://www.linkedin.com/in/marciojunior14/) | [✉️ Email](mailto:marcio.mj70@gmail.com)
 
 ---
 
